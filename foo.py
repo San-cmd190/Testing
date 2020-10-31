@@ -1,1 +1,0 @@
-print ("My9 naem is sandeep")
